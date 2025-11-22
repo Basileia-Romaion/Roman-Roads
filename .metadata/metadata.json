@@ -1,0 +1,11 @@
+﻿{
+	"name":	"Roman Roads",
+	"id":	"brromanroads",
+	"version":	"0.1",
+	"supported_game_version":	"1.*",
+	"short_description":	"Restores numerous missing Roman roads throughout Italy, the Balkans, Greece, and Anatolia, with additional routes added where appropriate.",
+	"tags":	["Balance", "Fixes", "Gameplay", "Historical", "Map", "Textures", "Trade and Economics"],
+	"relationships":	[],
+	"game_custom_data":	{
+}
+}
